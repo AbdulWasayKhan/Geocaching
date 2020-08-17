@@ -1,0 +1,2 @@
+# Geocaching
+In this lab  you will utilize the GPS receiver in the device to determine where you (well where your Android device is), update a 2D map to reflect this, and then use this map to represent geocached events in the world. We will use York University map in this lab. This lab involves building an interface with HTML, formatting it using CSS, and implementing the logic through Javascript to monitor the position of the Android device relative to a global coordinate frame.
